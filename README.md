@@ -1,1 +1,1 @@
-# Major_Project
+# Online Medicare System using Django and Mailtrap API
